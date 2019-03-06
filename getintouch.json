@@ -1,0 +1,511 @@
+{
+  "imgpath":"groepen",
+  "groups":[
+    {
+      "ID":1,
+      "name":"Toneelgroep",
+      "description_short":{
+        "nl":"Ben jij een toneelliefhebber? Overkom je plankenkoorts en kom bij deze groep. Maak zelf toneelstukken of ga naar toneelstukken kijken.",
+        "en":""
+      },
+      "description":{
+        "nl":"Ben jij een toneelliefhebber? Overkom je plankenkoorts en kom bij deze groep. Maak zelf toneelstukken of ga naar toneelstukken kijken.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Cultuur",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":2,
+      "name":"Debatgroep",
+      "description_short":{
+        "nl":"Discussieer je graag? Wil je je debat skills oefenen? Kom nu bij de debatgroep om over zowel politieke als niet-politieke thema’s na te denken en je mening te verkondigen.",
+        "en":""
+      },
+      "description":{
+        "nl":"Discussieer je graag? Wil je je debat skills oefenen? Kom nu bij de debatgroep om over zowel politieke als niet-politieke thema’s na te denken en je mening te verkondigen.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Politiek",
+      "tags":["Idee","Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":3,
+      "name":"Green office",
+      "description_short":{
+        "nl":"Het primaire doel van een Green office is om ervoor te zorgen dat de instelling verduurzaamt in al haar facetten.",
+        "en":""
+      },
+      "description":{
+        "nl":"Het primaire doel van een Green office is om ervoor te zorgen dat de instelling verduurzaamt in al haar facetten. <a href=\"https://en.wikipedia.org/wiki/Green_Office\" target=\"_blank\">Wikipedia: Green Office</a>",
+        "en":"<a href=\"https://en.wikipedia.org/wiki/Green_Office\" target=\"_blank\">Wikipedia: Green Office</a>"
+      },
+      "creationDate":"2018-04-28",
+      "category":"Andere",
+      "tags":["Idee","Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":4,
+      "name":"Studiegroep",
+      "description_short":{
+        "nl":"Vind je het ongezellig om in je eentje te studeren? Heb je maar niet genoeg motivatie om die tekst samen te vatten? Kom samen met andere studenten studeren.",
+        "en":""
+      },
+      "description":{
+        "nl":"Vind je het ongezellig om in je eentje te studeren? Heb je maar niet genoeg motivatie om die tekst samen te vatten? Kom samen met andere studenten studeren. Op deze manier word je door elkaar te zien studeren gestimuleerd om door te werken en krijg je de kans vragen aan elkaar te stellen. Hiernaast kunnen jullie alle handige tips en tricks uitwisselen om net die 10 te halen of gewoon helemaal voor een 20 te gaan.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Onderwijs",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":5,
+      "name":"Alumni groep",
+      "description_short":{
+        "nl":"Ben je benieuwd naar hoe je medestudenten het er vanaf hebben gebracht? Wil je graag nieuwe en oude contacten onderhouden? Kom bij de Alumni groep en ontdek welke voordelen je kan krijgen. Je moet geen oud student zijn om bij deze groep te horen. Verzeker nu al je plaatsje voor later. Maak nu al de connecties voor later.",
+        "en":""
+      },
+      "description":{
+        "nl":"Ben je benieuwd naar hoe je medestudenten het er vanaf hebben gebracht? Wil je graag nieuwe en oude contacten onderhouden? Kom bij de Alumni groep en ontdek welke voordelen je kan krijgen. Je moet geen oud student zijn om bij deze groep te horen. Verzeker nu al je plaatsje voor later. Maak nu al de connecties voor later.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Andere",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":6,
+      "name":"Studentenblad",
+      "description_short":{
+        "nl":"Zit er in jou een verborgen schrijftalent? Wil jij er graag mee voor zorgen dat je medestudenten weten wat er op deze wereld gebeurd? Wil jij mensen van onder hun steen halen en wat kennis bijbrengen? Kom nu bij het studentenblad en schrijf mee aan het nieuws van de Universiteit. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Zit er in jou een verborgen schrijftalent? Wil jij er graag mee voor zorgen dat je medestudenten weten wat er op deze wereld gebeurd? Wil jij mensen van onder hun steen halen en wat kennis bijbrengen? Kom nu bij het studentenblad en schrijf mee aan het nieuws van de Universiteit. Studentenbladen van ander universiteiten: <a href=\"http://www.schamper.ugent.be/\" target=\"_blank\">UGent: Schamper</a>, <a href=\"http://dwars.be/nl\" target=\"_blank\">UAntwerpen: Dwars</a>, <a href=\"http://www.demoeial.be/\" target=\"_blank\">VUB: de Moeial</a>, <a href=\"http://www.veto.be/\" target=\"_blank\">KULeuven: Veto</a>",
+        "en":"Other universities: <a href=\"http://www.schamper.ugent.be/\" target=\"_blank\">UGent: Schamper</a>, <a href=\"http://dwars.be/nl\" target=\"_blank\">UAntwerpen: Dwars</a>, <a href=\"http://www.demoeial.be/\" target=\"_blank\">VUB: de Moeial</a>, <a href=\"http://www.veto.be/\" target=\"_blank\">KULeuven: Veto</a>"
+      },
+      "creationDate":"2018-04-28",
+      "category":"Creatie",
+      "tags":["Idee","Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":7,
+      "name":"Architectenbureau",
+      "description_short":{
+        "nl":"Architecten in spé, voel je geroepen, kom bij deze groep. Deel je kennis en expertise met de UHasselt en mogelijks met externen. Wie weet ontwerp jij wel een heleboel nieuwe projecten.",
+        "en":""
+      },
+      "description":{
+        "nl":"Architecten in spé, voel je geroepen, kom bij deze groep. Deel je kennis en expertise met de UHasselt en mogelijks met externen. Wie weet ontwerp jij wel een heleboel nieuwe projecten.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Creatie",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":9,
+      "name":"Dansgroep",
+      "description_short":{
+        "nl":"Zit dansen in je bloed? Kan je helemaal niet dansen, maar kijk je hier graag naar? Kom nu bij de dansgroep en ga samen naar dansvoorstelling en/of geef zelf dansvoorstellingen.",
+        "en":""
+      },
+      "description":{
+        "nl":"Zit dansen in je bloed? Kan je helemaal niet dansen, maar kijk je hier graag naar? Kom nu bij de dansgroep en ga samen naar dansvoorstelling en/of geef zelf dansvoorstellingen.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Sport",
+      "tags":["Idee", "Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":10,
+      "name":"Loopgroep",
+      "description_short":{
+        "nl":"Wil jij ook maar al te graag die 5, 10 of 42 km kunnen lopen. Kom bij onze groep en train je conditie samen met je medestudenten. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Wil jij ook maar al te graag die 5, 10 of 42 km kunnen lopen. Kom bij onze groep en train je conditie samen met je medestudenten. ",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Sport",
+      "tags":["Idee", "Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":11,
+      "name":"Mountainbikegroep",
+      "description_short":{
+        "nl":"Rijd jij graag met een mountainbike? Cross je graag door het bos? Kom bij deze groep en ontdek de beste plekken om te mountainbiken in België. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Rijd jij graag met een mountainbike? Cross je graag door het bos? Kom bij deze groep en ontdek de beste plekken om te mountainbiken in België. ",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Sport",
+      "tags":["Idee", "Leden"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":12,
+      "name":"Poëziegroep",
+      "description_short":{
+        "nl":"Aan alle poëzie liefhebbers kom bij deze groep en bespreek poëzie en luister naar poëzie.",
+        "en":""
+      },
+      "description":{
+        "nl":"Aan alle poëzie liefhebbers kom bij deze groep en bespreek poëzie en luister naar poëzie.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Cultuur",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":13,
+      "name":"Improvisatie theater",
+      "description_short":{
+        "nl":"Zit improviseren in je bloed? Kom bij onze groep en leer improvisatietechnieken voor het theater. Overkom je plankenkoorts. Wie weet volgt er wel een voorstelling. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Zit improviseren in je bloed? Kom bij onze groep en leer improvisatietechnieken voor het theater. Overkom je plankenkoorts. Wie weet volgt er wel een voorstelling. ",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Cultuur",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":14,
+      "name":"Boekclub",
+      "description_short":{
+        "nl":"Aan alle boekenliefhebbers, kom bij deze groep en bespreek samen enkele boeken.",
+        "en":""
+      },
+      "description":{
+        "nl":"Aan alle boekenliefhebbers, kom bij deze groep en bespreek samen enkele boeken.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Cultuur",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":16,
+      "name":"Tutoringgroep",
+      "description_short":{
+        "nl":"Wil je maar niet slagen voor dat ene vak? Lukt het je maar niet om een juist samenvatting te maken? Kom bij de tutoringgroep en ontdek waar jij je medestudenten kan helpen en waar jij geholpen kan worden. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Wil je maar niet slagen voor dat ene vak? Lukt het je maar niet om een juist samenvatting te maken? Kom bij de tutoringgroep en ontdek waar jij je medestudenten kan helpen en waar jij geholpen kan worden. ",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Onderwijs",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":17,
+      "name":"Onderwijsvernieuwing",
+      "description_short":{
+        "nl":"Kom bij deze groep en denk samen met je medestudenten na over mogelijke vernieuwingen in het onderwijs. ",
+        "en":""
+      },
+      "description":{
+        "nl":"Kom bij deze groep en denk samen met je medestudenten na over mogelijke vernieuwingen in het onderwijs. ",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Onderwijs",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":18,
+      "name":"Energie en ontwikkelingsgroep",
+      "description_short":{
+        "nl":"Kom bij deze groep en denk na over duurzame energie- en energiebesparingsprojecten voor de universiteit, kotstudenten, bedrijven, landen, misschien zelfs de wereld?",
+        "en":""
+      },
+      "description":{
+        "nl":"Kom bij deze groep en denk na over duurzame energie- en energiebesparingsprojecten voor de universiteit, kotstudenten, bedrijven, landen, misschien zelfs de wereld?",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Onderzoek",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":19,
+      "name":"Mobiliteitsgroep",
+      "description_short":{
+        "nl":"Denk samen met je medestudenten na over de mobiliteit van de UHasselt. Wat kan de universiteit doen om deze te verbeteren? Wat kunnen de studenten zelf doen om deze te verbeteren? Wordt lid van deze groep en bespreek het openbaar vervoer, fietsvoorzieningen, parkeerproblematiek, ...",
+        "en":""
+      },
+      "description":{
+        "nl":"Denk samen met je medestudenten na over de mobiliteit van de UHasselt. Wat kan de universiteit doen om deze te verbeteren? Wat kunnen de studenten zelf doen om deze te verbeteren? Wordt lid van deze groep en bespreek het openbaar vervoer, fietsvoorzieningen, parkeerproblematiek, ...",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Onderzoek",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":20,
+      "name":"EHBO-groep",
+      "description_short":{
+        "nl":"Stel dat er iets gebeurt met een medestudent of prof. Weet jij dan hoe je moet reageren? Kan je eerste hulp toedienen bij een verstuiking, een brandwonde of hartfalen? Wij vinden het belangrijk dat mensen elkaar kunnen helpen. Via onze groep leren we je de juiste vaardigheden aan om eerste hulp te bieden. Zo weet je wat je moet doen als er iets gebeurt.",
+        "en":""
+      },
+      "description":{
+        "nl":"Stel dat er iets gebeurt met een medestudent of prof. Weet jij dan hoe je moet reageren? Kan je eerste hulp toedienen bij een verstuiking, een brandwonde of hartfalen? Wij vinden het belangrijk dat mensen elkaar kunnen helpen. Via onze groep leren we je de juiste vaardigheden aan om eerste hulp te bieden. Zo weet je wat je moet doen als er iets gebeurt.",
+        "en":""
+      },
+      "creationDate":"2018-04-28",
+      "category":"Hulpverlening en Ondersteuning",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    },{
+      "ID":21,
+      "name":"... Andere ideeën ...",
+      "description_short":{
+        "nl":"Hier zijn links naar meer ideeën te vinden.",
+        "en":"Here you can find links to more ideas."
+      },
+      "description":{
+        "nl":"Nood aan inspiratie kijk eens naar de studentengroepen op: <a href=\"http://web.mit.edu/asa/resources/group-list.html\" target=\"_blank\">MIT</a>, <a href=\"https://arts.stanford.edu/for-students/student-groups/\" target=\"_blank\">Stanford Arts</a>, <a href=\"https://stanford.app.box.com/s/caa680bdt3fmbtxwbb9ypeq12ixyc1pa\" target=\"_blank\">Stanford</a>, <a href=\"https://osl.fas.harvard.edu/student-organizations\" target=\"_blank\">Harvard</a>, <a href=\"http://recreation.gocrimson.com/recreation/club_sports/active_clubsports\" target=\"_blank\">Harvard Sport</a>, <a href=\"https://gsas.harvard.edu/student-life/harvard-resources/student-groups\" target=\"_blank\">Harvard Arts and Sciences</a>, <a href=\"http://www.hio.harvard.edu/student-clubs\" target=\"_blank\">Harvard Overview</a>, <a href=\"https://colgate.campuslabs.com/engage/organizations\" target=\"_blank\">Colgate University</a>, <a href=\"https://colgate.campuslabs.com/engage/organizations\" target=\"_blank\">Colgate University</a>, <a href=\"https://www.ox.ac.uk/students/life/clubs/list\" target=\"_blank\">Oxford</a>, <a href=\"http://www.societies.cam.ac.uk\" target=\"_blank\">Cambridge</a>, <a href=\"https://undergrad.admissions.columbia.edu/learn/studentlife/activities\" target=\"_blank\">Columbia University</a>, <a href=\"http://studentsunionucl.org/clubs-societies/directory\" target=\"_blank\">UCL</a>, <a href=\"http://orgsync.rso.cornell.edu/Search\" target=\"_blank\">Cornell University</a>, <a href=\"https://odusapps.princeton.edu/StudentOrg/new/directory.php\" target=\"_blank\">Princeton University</a>, <a href=\"https://dukegroups.com/organizations\" target=\"_blank\">Duke University</a>, <a href=\"https://www.tuj.ac.jp/students/clubs-organizations/list/\" target=\"_blank\">University of Tokyo</a>",
+        "en":"Need more inspiration, look at the student groups at: <a href=\"http://web.mit.edu/asa/resources/group-list.html\" target=\"_blank\">MIT</a>, <a href=\"https://arts.stanford.edu/for-students/student-groups/\" target=\"_blank\">Stanford Arts</a>, <a href=\"https://stanford.app.box.com/s/caa680bdt3fmbtxwbb9ypeq12ixyc1pa\" target=\"_blank\">Stanford</a>, <a href=\"https://osl.fas.harvard.edu/student-organizations\" target=\"_blank\">Harvard</a>, <a href=\"http://recreation.gocrimson.com/recreation/club_sports/active_clubsports\" target=\"_blank\">Harvard Sport</a>, <a href=\"https://gsas.harvard.edu/student-life/harvard-resources/student-groups\" target=\"_blank\">Harvard Arts and Sciences</a>, <a href=\"http://www.hio.harvard.edu/student-clubs\" target=\"_blank\">Harvard Overview</a>, <a href=\"https://colgate.campuslabs.com/engage/organizations\" target=\"_blank\">Colgate University</a>, <a href=\"https://colgate.campuslabs.com/engage/organizations\" target=\"_blank\">Colgate University</a>, <a href=\"https://www.ox.ac.uk/students/life/clubs/list\" target=\"_blank\">Oxford</a>, <a href=\"http://www.societies.cam.ac.uk\" target=\"_blank\">Cambridge</a>, <a href=\"https://undergrad.admissions.columbia.edu/learn/studentlife/activities\" target=\"_blank\">Columbia University</a>, <a href=\"http://studentsunionucl.org/clubs-societies/directory\" target=\"_blank\">UCL</a>, <a href=\"http://orgsync.rso.cornell.edu/Search\" target=\"_blank\">Cornell University</a>, <a href=\"https://odusapps.princeton.edu/StudentOrg/new/directory.php\" target=\"_blank\">Princeton University</a>, <a href=\"https://dukegroups.com/organizations\" target=\"_blank\">Duke University</a>, <a href=\"https://www.tuj.ac.jp/students/clubs-organizations/list/\" target=\"_blank\">University of Tokyo</a>"
+      },
+      "creationDate":"2018-04-28",
+      "category":"",
+      "tags":["Idee"],
+      "logo":"",
+      "contact":"stura@uhasselt.be",
+      "joinLink":"mailto:stura@uhasselt.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"",
+      "featured":false
+    }
+  ],
+  "categories":[
+    {
+      "ID":"Sport",
+      "name":{"nl":"Sport","en":"Sport"},
+      "color":"white",
+      "bgcolor":"OliveDrab"
+    },{
+      "ID":"Cultuur",
+      "name":{"nl":"Cultuur","en":"Culture"},
+      "color":"black",
+      "bgcolor":"DodgerBlue"
+    },{
+      "ID":"Politiek",
+      "name":{"nl":"Politiek","en":"Politics"},
+      "color":"black",
+      "bgcolor":"Peru"
+    },{
+      "ID":"Religie",
+      "name":{"nl":"Religie","en":"Religion"},
+      "color":"White",
+      "bgcolor":"SlateBlue"
+    },{
+      "ID":"Business",
+      "name":{"nl":"Business","en":"Business"},
+      "color":"white",
+      "bgcolor":"black"
+    },{
+      "ID":"Onderwijs",
+      "name":{"nl":"Onderwijs","en":"Education"},
+      "color":"white",
+      "bgcolor":"Navy"
+    },{
+      "ID":"Onderzoek",
+      "name":{"nl":"Onderzoek","en":"Research"},
+      "color":"black",
+      "bgcolor":"Lime"
+    },{
+      "ID":"Creatie",
+      "name":{"nl":"Creatie","en":"Creation"},
+      "color":"Black",
+      "bgcolor":"Gold"
+    },{
+      "ID":"Evenementen",
+      "name":{"nl":"Evenementen","en":"Events"},
+      "color":"white",
+      "bgcolor":"FireBrick"
+    },{
+      "ID":"Hulpverlening en Ondersteuning",
+      "name":{"nl":"Hulpverlening en Ondersteuning","en":"Assistance and Support"},
+      "color":"black",
+      "bgcolor":"OrangeRed"
+    },{
+      "ID":"Andere",
+      "name":{"nl":"Andere","en":"Other"},
+      "color":"black",
+      "bgcolor":"LightGray"
+    },{
+      "ID":"Idee",
+      "name":{"nl":"Idee","en":"Idea"},
+      "color":"white",
+      "bgcolor":"Purple"
+    },{
+      "ID":"Leden",
+      "name":{"nl":"Meer leden nodig","en":"Need more members"},
+      "color":"black",
+      "bgcolor":"PaleGreen"
+    }
+  ]
+}

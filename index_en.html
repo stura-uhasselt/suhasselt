@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home | SUHasselt</title>
+
+  <link rel="preload" href="css/bootstrap.min.css" as="style"/>
+  <link rel="preload" href="js/jquery-3.3.1.min.js" as="script"/>
+  <link rel="preload" href="js/popper.min.js" as="script"/>
+  <link rel="preload" href="js/bootstrap.min.js" as="script"/>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="img/favicon/site.webmanifest">
+  <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5ca200">
+  <meta name="msapplication-TileColor" content="#5ca200">
+  <meta name="theme-color" content="#5ca200">
+
+  <meta name="description" content="SUHasselt is a portalwebsite for students of the UHasselt.">
+  <meta name="keywords" content="SUHasselt,UHasselt,Wiki,Student,Students,Groups,Studentgroups,Associations,StuRa,Schedule">
+  <meta name="author" content="StuRa UHasselt">
+  <meta property="og:title" content="SUHasselt" />
+  <meta property="og:description" content="SUHasselt is a portalwebsite for students of the UHasselt." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://suhasselt.be/index_en.html" />
+  <meta property="og:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <meta property="fb:pages" content="115101731884855">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="SUHasselt" />
+  <meta name="twitter:description" content="SUHasselt is a portalwebsite for students of the UHasselt." />
+  <meta name="twitter:url" content="https://suhasselt.be/index_en.html" />
+  <meta name="twitter:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <style>
+  header {
+    background-image: url("img/jumbotron_bg.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 3em 0;
+  }
+  .jumbotron {
+    margin: auto;
+    background-color: rgba(233,236,239, 0.93);
+    padding: 2em 1em;
+  }
+  main{
+    margin: 1em 0;
+  }
+  .SiteSearch .tt-menu{
+    width: 100%;
+  }
+  span.twitter-typeahead .tt-suggestion{
+    white-space: initial;
+  }
+  .search-suggestion{
+    position: relative;
+  }
+  .search-suggestion .search-name{
+    margin-right: 35px;
+    overflow-wrap: break-word;
+  }
+  .search-suggestion .search-icon{
+    height: 37px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
+  .search-suggestion .search-url{
+    color: #aaa;
+    font-size: small;
+    overflow: hidden;
+    margin-right: 35px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .searchinpage{
+    margin-bottom: 5px;
+  }
+  .form-control::placeholder{
+    color:#aaa;
+  }
+  .SiteSearch .empty-message{
+    padding: 5px;
+  }
+  .card-no-gb{
+    background-color: inherit;
+  }
+  .topcard{
+    margin-bottom: 5px;
+  }
+  .small-top-card h4, .small-top-card p{
+    margin-bottom: 0rem;
+  }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top navbar-dark" style="background-color: #5ca200;">
+    <a class="navbar-brand" href="index_en.html">SUHasselt</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        <li class="nav-item active"><a class="nav-link" href="index_en.html">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="groups_en.html">Groups</a></li>
+        <li class="nav-item"><a class="nav-link" href="found_group_en.html">Found a Group</a></li>
+        <li class="nav-item"><a class="nav-link" href="getintouch_en.html">Get in touch</a></li>
+        <li class="nav-item"><a class="nav-link" href="associations_en.html">Associations</a></li>
+        <li class="nav-item"><a class="nav-link" href="elections_en.html">Elections</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://en.wiki.suhasselt.be">Wiki</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://sturauhasselt.be/">StuRa</a></li>
+      </ul>
+      <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="index.html" hreflang="nl">Nederlands</a></li>
+      </ul>
+    </div>
+  </nav>
+  <header class="d-none d-lg-block">
+    <div class="jumbotron text-center col-md-5">
+      <div>
+        <div class="topcard text-center">
+          <h2>Groups are here!</h2>
+          <p>Always wanted to found a group in UHasselt? Now you can do it.</p>
+          <p>
+            <a class="btn btn-primary" href="groups_en.html" role="button">What already exists?</a>
+            <a class="btn btn-primary" href="found_group_en.html" role="button">Found</a>
+          </p>
+        </div>
+        <div class="input-group lead SiteSearch">
+          <input type="text" class="form-control typeahead" placeholder="Zoeken... / Search..." aria-label="FilterField" autocomplete="off">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="d-block d-lg-none">
+      <div class="container">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12">
+              <div class="topcard text-center small-top-card">
+                <h4>Groups are here!</h4>
+                <p>Always wanted to found a group in UHasselt? Now you can do it.</p>
+                <p>
+                  <a class="btn btn-primary btn-sm" href="groups_en.html" role="button">What already exists?</a>
+                  <a class="btn btn-primary btn-sm" href="found_group_en.html" role="button">Found</a>
+                </p>
+              </div>
+              <div class="input-group lead SiteSearch searchinpage">
+                <input type="text" class="form-control typeahead" placeholder="Zoeken... / Search..." aria-label="FilterField" autocomplete="off">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section id="links">
+      <div class="container">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="card">
+                <a href="http://collegeroosters.uhasselt.be/">
+                  <img class="card-img-top d-none d-sm-block" src="img/StuRa_Icons/Uurrooster.svg" alt="Course schedules">
+                  <h3 class="card-title">Course schedules</h3>
+                </a>
+                <ul>
+                  <li><a href="http://collegeroosters.uhasselt.be/">Course schedules (nl)</a></li>
+                  <li><a href="https://uhintra03.uhasselt.be/uurroosters/Default.aspx?t=04">Course schedules (DYN)</a></li>
+                  <li><a href="https://www.uhasselt.be/Academic-calendars">Academic calendars</a></li>
+                  <li><a href="https://uhintra02.uhasselt.be/examenroosters/Default.aspx">Pers. Exam Schedule</a></li>
+                  <li><a href="https://www.uhasselt.be/exam-schedules">Exam Schedules</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="card">
+                <a href="https://bb.uhasselt.be">
+                  <img class="card-img-top d-none d-sm-block" src="img/StuRa_Icons/Blackboard.svg" alt="Blackboard">
+                  <h3 class="card-title">Blackboard</h3>
+                </a>
+                <ul>
+                  <li><a href="https://bb.uhasselt.be">Blackboard</a></li>
+                  <li><a href="https://cygnus.cc.kuleuven.be/">Toledo</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="card">
+                <a href="http://mail.student.uhasselt.be/">
+                  <img class="card-img-top d-none d-sm-block" src="img/StuRa_Icons/Email.svg" alt="Email">
+                  <h3 class="card-title">Email</h3>
+                </a>
+                <ul>
+                  <li><a href="http://mail.student.uhasselt.be/">Email</a></li>
+                  <li><a href="https://uhintra02.uhasselt.be/studDosSt/">My Student File</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+              <div class="card">
+                <img class="card-img-top d-none d-sm-block" src="img/StuRa_Icons/Info.svg" alt="Other">
+                <h3 class="card-title">Other</h3>
+                <ul>
+                  <li><a href="http://everyoneprint.uhasselt.be/" data-toggle="tooltip" data-placement="right" title="Only works on UHasselt Wifi">Print</a></li>
+                  <li><a href="https://www.uhasselt.be/studyguide">Studyguide</a></li>
+                  <li><a href="https://en.wiki.suhasselt.be">Wiki</a></li>
+                  <li><a href="https://uhasselt-pxl.mynetpay.be/">PingPing</a></li>
+                  <li><a href="https://www.uhasselt.be/eBronnen">e-Bronnen</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="card">
+                <a href="https://en.wiki.suhasselt.be">
+                  <img class="card-img-top" src="img/StuRa_Icons/Wiki.svg" alt="SUHasselt Wiki">
+                  <h3 class="card-title">Wiki</h3>
+                </a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="card">
+                <a href="groups_en.html">
+                  <img class="card-img-top" src="img/StuRa_Icons/Groepen.svg" alt="Groups">
+                  <h3 class="card-title">Groups</h3>
+                </a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="card">
+                <a href="associations_en.html">
+                  <img class="card-img-top" src="img/StuRa_Icons/Verenigingen.svg" alt="Associations">
+                  <h3 class="card-title">Associations</h3>
+                </a>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3">
+              <div class="card">
+                <a href="http://sturauhasselt.be/">
+                  <img class="card-img-top" src="img/StuRa_Icons/StuRa.svg" alt="StuRa">
+                  <h3 class="card-title">StuRa</h3>
+                </a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <section class="container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p>&copy; StuRa UHasselt</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </footer>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/typeahead.bundle.min.js"></script>
+  <script>
+  function openSearchConverter(osResults){
+    var results = [];
+    for(var i = 0; i < osResults[1].length;i++){
+      results.push({
+        name: osResults[1][i],
+        desc: osResults[2][i],
+        url: osResults[3][i],
+        icon: "img/StuRa_Icons/Wiki.svg",
+      });
+    }
+    return results;
+  }
+  function wieIsWieConverter(listNames){
+    var results = [];
+    for(var i = 0; i < listNames.length;i++){
+      var id = listNames[i].id;
+      var voornaam = encodeURI(id.substr(0,id.indexOf(' '))); // first space
+      var naam = encodeURI(id.substr(id.indexOf(' ')+1)); // rest of name
+      // remove hyphen(-)
+      voornaam = voornaam.replace('-','');
+      naam = naam.replace('-','');
+
+      results.push({
+        name: listNames[i].label,
+        desc: listNames[i].value,
+        url: 'https://www.uhasselt.be/fiche_en?voornaam='+voornaam+'&naam='+ naam,
+        icon: "img/StuRa_Icons/WieIsWie.svg",
+      });
+    }
+    return results;
+  }
+  var wikiSearchURL = 'https://en.wiki.suhasselt.be/api.php?action=opensearch&origin='+location.origin+'&format=json&limit=5&search=%QUERY';
+  var proxySearchURL = 'https://suhasselt.be:8085';
+  var wieIsWieSearchURL = 'https://www.uhasselt.be/autoc_naam?term=';
+  var wikiSearch = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    //prefetch: 'data/....json',
+    remote: {
+      url: wikiSearchURL,
+      wildcard: '%QUERY',
+      filter: openSearchConverter
+    }
+  });
+  var mainSearch = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    prefetch: 'data/searchmain_en.json',
+  });
+
+  var wieIsWieSearch = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    remote: {
+      url: proxySearchURL,
+      filter: wieIsWieConverter,
+      prepare: function (query, settings) {
+        settings.url = settings.url + "/name/" + query;
+        settings.headers = {
+          "Target-URL": wieIsWieSearchURL + query
+        };
+        return settings;
+      }
+    },
+  });
+  var searchTemplate = function(item){
+    return `<div class="search-suggestion"><div class="search-name">${item.name}</div><div class="search-url">${item.url}</div><img src="${item.icon}" class="search-icon"/></div>`;
+  };
+  $('.SiteSearch .typeahead').typeahead({
+    hint: true,
+    highlight: true,
+    minLength: 1
+  }, {
+    name:'main',
+    displayKey: 'name',
+    source: mainSearch,
+    templates: {
+      suggestion: searchTemplate
+    }
+  },{
+    name:'wiki',
+    displayKey: 'name',
+    source: wikiSearch,
+    templates: {
+      empty: function(){return `<div class="empty-message">No Results from Wiki</div>`},
+      suggestion: searchTemplate,
+    }
+  },{
+    name:'whoiswho',
+    displayKey: 'name',
+    source: wieIsWieSearch,
+    templates: {
+      empty: function(){return `<div class="empty-message">No Results from Who-is-who</div>`},
+      suggestion: searchTemplate,
+    }
+  });
+  $('.SiteSearch .typeahead').bind('typeahead:select', function(ev, item) {
+    window.location.href = item.url;
+  });
+  $('head').append('<link href="css/typeaheadjs.min.css" rel="stylesheet">');
+  </script>
+  <script>
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+  })
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109037485-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-109037485-1');
+  </script>
+</body>
+</html>

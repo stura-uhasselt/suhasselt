@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Verkiezingen | SUHasselt</title>
+
+  <link rel="preload" href="css/bootstrap.min.css" as="style"/>
+	<link rel="preload" href="js/jquery-3.3.1.min.js" as="script"/>
+	<link rel="preload" href="js/popper.min.js" as="script"/>
+	<link rel="preload" href="js/bootstrap.min.js" as="script"/>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="img/favicon/site.webmanifest">
+  <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5ca200">
+  <meta name="msapplication-TileColor" content="#5ca200">
+  <meta name="theme-color" content="#5ca200">
+
+  <meta name="description" content="Stem vandaag nog op de studentenraad! Zie hier de tussenstand.">
+  <meta name="keywords" content="SUHasselt,UHasselt,Wiki,Student,Studenten,Groepen,Studentengroepen,Verenigingen,StuRa,Uurroosters">
+  <meta name="author" content="StuRa UHasselt">
+  <meta property="og:title" content="Verkiezingen StuRa UHasselt" />
+  <meta property="og:description" content="Stem vandaag nog op de studentenraad! Zie hier de tussenstand." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://suhasselt.be/verkiezingen.html" />
+  <meta property="og:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <meta property="fb:pages" content="115101731884855">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Verkiezingen StuRa UHasselt" />
+  <meta name="twitter:description" content="Stem vandaag nog op de studentenraad! Zie hier de tussenstand." />
+  <meta name="twitter:url" content="https://suhasselt.be/verkiezingen.html" />
+  <meta name="twitter:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/typeaheadjs.css" rel="stylesheet">
+
+  <script src="js/verkiezingen.min.js"></script>
+  <style>
+  #groep{
+    margin: 15px;
+    border: 10px #5ca200 solid;
+    padding: 20px;
+  }
+  </style>
+</head>
+<body>
+  <main>
+    <section id="groep">
+      <div class="container">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h1><img src="img/StuRa Simple Box.svg" alt="StuRa" height="150"> Verkiezingen</h1>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-7 text-left">
+              <h1>Stem via: <a href="http://bit.ly/stura2018" style="font-size: 40pt;">bit.ly/stura2018</a></h1>
+            </div>
+            <div class="col-md-5 text-right h4">
+              <p>Aantal stemmen per faculteit.</p>
+              <p id="lastupdated"></p>
+            </div>
+          </div>
+        </div>
+        <div class="container-fluid" id="faculteitenprogress">
+          <div class="row">
+            <div class="col-md-12">
+              <h1>...Loading<img src="img/ionicons/load-d.svg" width="30" alt="."/>...</h1> <p>If it takes to long an error may occurred or you need to allow scripts to run on this page.</p>
+            </div>
+          </div>
+        </div>
+    </section>
+  </main>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109037485-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-109037485-1');
+  </script>
+</body>
+</html>

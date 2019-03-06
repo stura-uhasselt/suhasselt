@@ -1,0 +1,10 @@
+# Page
+Redirect /groepen /groepen.html
+Redirect /groep_oprichten /groep_oprichten.html
+Redirect /verenigingen /verenigingen.html
+# Language
+Redirect /nl /index.html
+Redirect /en /index_en.html
+# Other websites
+Redirect /stura https://sturauhasselt.be/
+Redirect /wiki https://wiki.suhasselt.be/

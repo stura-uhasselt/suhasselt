@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5086"
+   viewBox="0 0 512.00001 512.00001"
+   height="512"
+   width="512">
+  <defs
+     id="defs5088" />
+  <metadata
+     id="metadata5091">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer7">
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#5ca200;stroke-width:14.436;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4190"
+       width="497.5636"
+       height="497.56406"
+       x="7.218194"
+       y="7.2179756" />
+  </g>
+  <g
+     transform="translate(0,-540.36216)"
+     id="layer1">
+    <rect
+       y="645.59692"
+       x="37.807037"
+       height="301.53052"
+       width="436.38593"
+       id="rect5676"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#5ca200;stroke-width:14.43599987;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="662.01184"
+       x="53.464417"
+       height="268.70059"
+       width="405.07117"
+       id="rect5678"
+       style="opacity:1;fill:#5ca200;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       transform="matrix(0.9822142,0.18776387,-0.18776387,0.9822142,0,0)"
+       y="811.91095"
+       x="496.60452"
+       height="22.142874"
+       width="89.285713"
+       id="rect5680"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="matrix(0.98352249,-0.18078581,0.18078581,0.98352249,0,0)"
+       id="text5684"
+       y="803.69922"
+       x="-54.553123"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L, Medium';text-align:justify;letter-spacing:4.53999949px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="803.69922"
+         x="-54.553123"
+         id="tspan5686">E=mc²</tspan></text>
+  </g>
+</svg>

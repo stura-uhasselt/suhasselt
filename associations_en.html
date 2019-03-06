@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Associations | SUHasselt</title>
+
+  <link rel="preload" href="css/bootstrap.min.css" as="style"/>
+	<link rel="preload" href="js/jquery-3.3.1.min.js" as="script"/>
+	<link rel="preload" href="js/popper.min.js" as="script"/>
+	<link rel="preload" href="js/bootstrap.min.js" as="script"/>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+  <link rel="manifest" href="img/favicon/site.webmanifest">
+  <link rel="mask-icon" href="img/favicon/safari-pinned-tab.svg" color="#5ca200">
+  <meta name="msapplication-TileColor" content="#5ca200">
+  <meta name="theme-color" content="#5ca200">
+
+  <meta name="description" content="SUHasselt is a portalwebsite for students of the UHasselt.">
+  <meta name="keywords" content="SUHasselt,UHasselt,Wiki,Student,Students,Groups,Studentgroups,Associations,StuRa,Schedule">
+  <meta name="author" content="StuRa UHasselt">
+  <meta property="og:title" content="Associations | SUHasselt" />
+  <meta property="og:description" content="SUHasselt is a portalwebsite for students of the UHasselt." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://suhasselt.be/verenigingen.html" />
+  <meta property="og:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <meta property="fb:pages" content="115101731884855">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Associations | SUHasselt" />
+  <meta name="twitter:description" content="SUHasselt is a portalwebsite for students of the UHasselt." />
+  <meta name="twitter:url" content="https://suhasselt.be/verenigingen.html" />
+  <meta name="twitter:image" content="https://suhasselt.be/img/SUHasselt.png" />
+
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <style>
+  .card{
+    margin: 10px 0;
+  }
+  .card-img-top {
+    max-height: 200px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg sticky-top navbar-dark" style="background-color: #5ca200;">
+    <a class="navbar-brand" href="index_en.html">SUHasselt</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="index_en.html">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="groups_en.html">Groups</a></li>
+        <li class="nav-item"><a class="nav-link" href="found_group_en.html">Found a Group</a></li>
+        <li class="nav-item"><a class="nav-link" href="getintouch_en.html">Get in touch</a></li>
+        <li class="nav-item active"><a class="nav-link" href="associations_en.html">Associations</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://en.wiki.suhasselt.be">Wiki</a></li>
+        <li class="nav-item"><a class="nav-link" href="https://sturauhasselt.be/">StuRa</a></li>
+      </ul>
+      <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="verenigingen.html" hreflang="nl">Nederlands</a></li>
+      </ul>
+    </div>
+  </nav>
+  <header>
+  </header>
+
+  <main>
+    <div class="modal fade" id="groepinfoModel" tabindex="-1" role="dialog" aria-labelledby="groepinfoModelLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="groepinfoModelLabel">Title</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-8">
+                  <div>
+                    <h4>Description</h4>
+                    <p id="modal-description" class="text-justify"></p>
+                  </div>
+                  <div>
+                    <h4>Tags</h4>
+                    <p id="modal-tags"></p>
+                  </div>
+                  <div>
+                    <h4>Contact</h4>
+                    <p id="modal-contact"></p>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <img src="" alt="logo" id="modal-logo" style="width: 100%;">
+                  <div>
+                    <a href="#" target="_blank" id="modal-link-facebook" class="d-none"><img src="img/ionicons/social-facebook.svg" width="36"></a>
+                    <a href="#" target="_blank" id="modal-link-instagram" class="d-none"><img src="img/ionicons/social-instagram.svg" width="36"></a>
+                    <a href="#" target="_blank" id="modal-link-twitter" class="d-none"><img src="img/ionicons/social-twitter.svg" width="36"></a>
+                    <a href="#" target="_blank" id="modal-link-website" class="d-none"><img src="img/ionicons/earth.svg" width="36"></a>
+                    <a href="#" target="_blank" id="modal-link-wiki" class="d-none"><img src="img/StuRa_Icons/Wiki_mono.svg" width="36"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <a href="#" id="modal-join" target="_blank"><button type="button" class="btn btn-primary">Join</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <section id="groep">
+      <div class="container">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h1>Associations</h1>
+            </div>
+          </div>
+        </div>
+        <div class="btn-group" role="group" aria-label="Filter" id="filterCategory">
+        </div>
+        <div class="container-fluid">
+          <!-- Featured -->
+          <div class="row" id="featuredList">
+          </div>
+        </div>
+        <div class="container-fluid">
+          <div class="row" id="groupList">
+            <div class="col-md-12">
+              <h1>...Loading<img src="img/ionicons/load-d.svg" width="30" alt="."/>...</h1> <p>If it takes to long an error may occurred or you need to allow scripts to run on this page.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <section class="container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p>&copy; StuRa UHasselt</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </footer>
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/typeahead.jquery.min.js"></script>
+  <script src="js/loader.min.js"></script>
+  <script>
+    loadMain("verenigingen.json");
+  </script>
+  <script>
+  $('#groepinfoModel').on('show.bs.modal', function (event) {
+    var button = $(event.relatedTarget) // Button that triggered the modal
+    var group = button.data('group');
+
+    var modal = $(this)
+    modal.find('.modal-title').text('Group: ' + group.name);
+    modal.find('#modal-description').html(group.description[language]);
+    modal.find('#modal-tags').text(group.category);
+    modal.find('#modal-contact').text(group.contact);
+    modal.find('#modal-logo').attr('src','groepen/'+group.logo);
+    modal.find('#modal-join').attr('href',group.joinLink);
+    console.log(group.facebookLink);
+    displayIfLink(modal, '#modal-link-facebook', group.facebookLink);
+    displayIfLink(modal, '#modal-link-instagram', group.instagramLink);
+    displayIfLink(modal, '#modal-link-twitter', group.twitterLink);
+    displayIfLink(modal, '#modal-link-website', group.websiteLink);
+    displayIfLink(modal, '#modal-link-wiki', group.wikiLink);
+  })
+
+  function displayIfLink(modal, element, value){
+    if(value != "" && value !== undefined && value != null){
+      modal.find(element).attr('href',value);
+      modal.find(element).removeClass('d-none');
+    }else{
+      modal.find(element).addClass('d-none');
+    }
+  }
+  $('head').append('<link href="css/typeaheadjs.min.css" rel="stylesheet">');
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109037485-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-109037485-1');
+  </script>
+</body>
+</html>

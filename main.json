@@ -1,0 +1,156 @@
+{
+  "imgpath":"img_groepen",
+  "groups":[
+    {
+      "ID":1,
+      "name":"ODiN",
+      "description_short":{
+        "nl":"ODiN is een groep van vrijwilligers die samen software ontwikkelen voor mensen verbonden aan de UHasselt.",
+        "en":"ODiN is a group of volunteers who create software together for the betterment of people association with the UHasselt."
+      },
+      "description":{
+        "nl":"ODiN is een groep van vrijwilligers die samen software ontwikkelen voor mensen verbonden aan de UHasselt. Aanpassingen aan software binnen de UHasselt laten doorgaans jaren op zich wachten. Daarom nemen individuen steeds vaker zelf het initiatief om deze software te verbeteren of uit te breiden. Hoewel zulke eenmansprojecten heel snel resultaat kunnen opleveren, hebben ze als nadelen dat het resultaat vaak niet goed afgewerkt is, dat hun ontwikkeling doorgaans stopt wanneer de betreffende persoon de universiteit verlaat, en dat ze typisch weinig bekend zijn. ODiN gaat deze problemen tegen door de ontwikkelaars samen te brengen en in groep te laten werken. Op die manier worden grotere, beter afgewerkte projecten mogelijk, die jaar na jaar op nieuwe mensen kunnen worden overgedragen, waardoor ze onderhouden blijven.",
+        "en":"ODiN is a group of volunteers who create software together for the betterment of people association with the UHasselt. Adjustments to UHasselt software typically take years. For this reason, more and more individuals take it upon themselves to improve or extend this software. While such one-man projects can yield results very quickly, they have the disadvantages that their results are often not well polished, that their development halts when the respective developer leaves the university, and that the resulting software is typically not well-known. ODiN combats these problems by bringing the developers together and have them work as a group. In this way, larger projects become possible, and they can be transferred to new people each year, so as to keep them maintained."
+      },
+      "creationDate":"2018-04-18",
+      "category":"Creatie",
+      "tags":[],
+      "logo":"ODIN.svg",
+      "contact":"contact@uhasseltodin.be",
+      "joinLink":"mailto:contact@uhasseltodin.be",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"https://uhasseltodin.be",
+      "wikiLink":"https://nl.wiki.suhasselt.be/wiki/ODiN",
+      "featured":false
+    },{
+      "ID":2,
+      "name":"Huuradvies Hasselt",
+      "description_short":{
+        "nl":"Onze adviesverleners richten zich op het huurrecht. Iedereen die advies nodig heeft, huurder, verhuurder, toekomstig (ver)huurder,... is welkom.",
+        "en":"Our consultants focus on rental law. Anyone who needs advice, tenant, owner, future (dist) tenant,... is welcome."
+      },
+      "description":{
+        "nl":"Huuradvies Hasselt wordt gedreven door onze vrijwillige adviesverleners, die tevens nog rechtenstudent zijn. Onze adviesverleners richten zich op het huurrecht. Iedereen die advies nodig heeft, huurder, verhuurder, toekomstig (ver)huurder,... is welkom. Onze medewerkers delen graag hun raad mee tijdens de daarvoor voorziene permanenties.",
+        "en":"Rental advice Hasselt is driven by our voluntary consultants, who are also law students. Our consultants focus on rental law. Anyone who needs advice, tenant, owner, future (dist) tenant,... is welcome. Our employees are happy to share their advice during the planned permanence."
+      },
+      "creationDate":"2018-05-31",
+      "category":"Hulpverlening en Ondersteuning",
+      "tags":[],
+      "logo":"Huuradvies_Hasselt.png",
+      "contact":"huuradvieshasselt@hotmail.com",
+      "joinLink":"mailto:huuradvieshasselt@hotmail.com",
+      "facebookLink":"https://www.facebook.com/Huuradvies-Hasselt-411476879041924/",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"http://www.huuradvieshasselt.be",
+      "wikiLink":"https://nl.wiki.suhasselt.be/wiki/Huuradvies_Hasselt",
+      "featured":false
+    },{
+      "ID":3,
+      "name":"TEDxUHasselt",
+      "description_short":{
+        "nl":"TEDxUHasselt is een onafhankelijk georganiseerde TED conferentie waar nationale en internationale sprekers top ideeën delen.",
+        "en":"TEDxUHasselt is an independently organized TED conference where speakers from around the world share cutting-edge ideas."
+      },
+      "description":{
+        "nl":"TEDxUHasselt is een onafhankelijk georganiseerde TED conferentie waar nationale en internationale sprekers top ideeën delen. Tijdens de pauzes kunnen gasten met elkaar netwerken door middel van een variëteit aan activiteiten: Converstation starter, startup showcases, workshops, catering,... Een main event wordt jaarlijks georganiseerd. Deze TEDxUHasselt conferentie vult een volledige dag en telt ongeveer 12 sprekers. Het event vindt plaats op de UHasselt, en laat 500 tot 600 met de hand geselecteerde gasten toe. We streven naar een tweede jaarlijks event: een TEDxUHasseltSalon. Dit is een kleiner evenement dat slechts een avond een beslag neemt, en een viertal sprekers aan bod laat komen. Dit kleinere event kan in samenwerking met een derde partij gebeuren.",
+        "en":"TEDxUHasselt is an independently organized TED conference where speakers from around the world share cutting-edge ideas. During the breaks, attendees connect with each other through various interactive activities: Converstation starter, startup showcases, workshops, catering,... A main event is organised yearly. This TEDxUHasselt conference fills an entire day with about 12 speakers. The event takes place at UHasselt, and allows 500-600 hand picked guests. We strive for  a second yearly event: a TEDxUHasseltSalon. This is a smaller event that only takes up an evening, and has only about four speakers. This smaller event may be organised together with a  third party."
+      },
+      "creationDate":"2018-05-31",
+      "category":"Evenementen",
+      "tags":[],
+      "logo":"TEDxUHasselt.svg",
+      "contact":"info@tedxuhasselt.eu",
+      "joinLink":"http://apply.tedxuhasselt.eu/",
+      "facebookLink":"https://www.facebook.com/TEDxUHasselt",
+      "instagramLink":"http://www.instagram.com/TEDxUHasselt",
+      "twitterLink":"https://twitter.com/TEDxUHasselt",
+      "websiteLink":"http://www.tedxuhasselt.eu/",
+      "wikiLink":"https://nl.wiki.suhasselt.be/wiki/TEDxUHasselt_%28groep%29",
+      "featured":false
+    },{
+      "ID":4,
+      "name":"Board Games @ UHasselt",
+      "description_short":{
+        "nl":"Bedoeling van deze studentengroep is het in het leven roepen van regelmatige bordspelavonden aan de Universiteit Hasselt.",
+        "en":"Goal of this student group is to organize regular board game nights at Hasselt University."
+      },
+      "description":{
+        "nl":"Bedoeling van deze studentengroep is het in het leven roepen van regelmatige bordspelavonden aan de Universiteit Hasselt. We willen deze activiteit één keer in de twee weken organiseren op maandagavond (18:00-22:00) op campus Diepenbeek. Onze bordspelavonden zijn louter ter ontspanning, steeds van informele aard en niet competitief. Inschrijven is gratis, maar verplicht (eenmalig).Wij voorzien zelf diverse gezelschapsspelen, maar deelnemers mogen zelf ook steeds bordspellen met zich mee brengen. Spellen van alle genres zijn welkom. Op voorhand kunnen tevens voorkeuren voor bepaalde spellen worden doorgegeven via een online groepsbestand.",
+        "en":"Goal of this student group is to organize regular board game nights at Hasselt University. We will meet once every two weeks on Monday nights (18:00-22:00) at campus Diepenbeek. Our board game nights are informal, non-competitive and exclusively held for recreational purposes. Participation is free, but anyone interested to come is obliged to subscribe online (once, at the beginning of each academic year).We provide a range of different board games to choose from, but participants are welcome to bring their own games. Board games from any genre can be played. In addition, people can indicate which game they want to play ahead of each game night through an online form."
+      },
+      "creationDate":"2018-10-04",
+      "category":"Other",
+      "tags":[],
+      "logo":"",
+      "contact":"https://goo.gl/forms/M6LEhveWbGkVx4sM2",
+      "joinLink":"https://goo.gl/W9qCzE",
+      "facebookLink":"",
+      "instagramLink":"",
+      "twitterLink":"",
+      "websiteLink":"",
+      "wikiLink":"https://nl.wiki.suhasselt.be/wiki/Board_Games_@_UHasselt",
+      "featured":true
+    }
+  ],
+  "categories":[
+    {
+      "ID":"Sport",
+      "name":{"nl":"Sport","en":"Sport"},
+      "color":"white",
+      "bgcolor":"OliveDrab"
+    },{
+      "ID":"Cultuur",
+      "name":{"nl":"Cultuur","en":"Culture"},
+      "color":"black",
+      "bgcolor":"DodgerBlue"
+    },{
+      "ID":"Politiek",
+      "name":{"nl":"Politiek","en":"Politics"},
+      "color":"black",
+      "bgcolor":"Peru"
+    },{
+      "ID":"Religie",
+      "name":{"nl":"Religie","en":"Religion"},
+      "color":"White",
+      "bgcolor":"SlateBlue"
+    },{
+      "ID":"Business",
+      "name":{"nl":"Business","en":"Business"},
+      "color":"white",
+      "bgcolor":"black"
+    },{
+      "ID":"Onderwijs",
+      "name":{"nl":"Onderwijs","en":"Education"},
+      "color":"white",
+      "bgcolor":"Navy"
+    },{
+      "ID":"Onderzoek",
+      "name":{"nl":"Onderzoek","en":"Research"},
+      "color":"black",
+      "bgcolor":"Lime"
+    },{
+      "ID":"Creatie",
+      "name":{"nl":"Creatie","en":"Creation"},
+      "color":"Black",
+      "bgcolor":"Gold"
+    },{
+      "ID":"Evenementen",
+      "name":{"nl":"Evenementen","en":"Events"},
+      "color":"white",
+      "bgcolor":"FireBrick"
+    },{
+      "ID":"Hulpverlening en Ondersteuning",
+      "name":{"nl":"Hulpverlening en Ondersteuning","en":"Assistance and Support"},
+      "color":"black",
+      "bgcolor":"OrangeRed"
+    },{
+      "ID":"Andere",
+      "name":{"nl":"Andere","en":"Other"},
+      "color":"black",
+      "bgcolor":"LightGray"
+    }
+  ]
+}

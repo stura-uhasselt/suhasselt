@@ -1,0 +1,99 @@
+[
+  {
+    "name":"Course schedules",
+    "desc":"",
+    "url":"http://collegeroosters.uhasselt.be/",
+    "icon":"img/StuRa_Icons/Uurrooster.svg"
+  },{
+    "name":"Course schedules (DYN)",
+    "desc":"",
+    "url":"https://uhintra03.uhasselt.be/uurroosters/Default.aspx?t=04",
+    "icon":"img/StuRa_Icons/Uurrooster.svg"
+  },{
+    "name":"Academic calendars",
+    "desc":"",
+    "url":"https://www.uhasselt.be/Academic-calendars",
+    "icon":"img/StuRa_Icons/Uurrooster.svg"
+  },{
+    "name":"Personal Exam Schedule",
+    "desc":"",
+    "url":"https://uhintra02.uhasselt.be/examenroosters/Default.aspx",
+    "icon":"img/StuRa_Icons/Uurrooster.svg"
+  },{
+    "name":"Exam Schedules",
+    "desc":"",
+    "url":"https://www.uhasselt.be/exam-schedules",
+    "icon":"img/StuRa_Icons/Uurrooster.svg"
+  },{
+    "name":"Blackboard",
+    "desc":"",
+    "url":"https://bb.uhasselt.be/",
+    "icon":"img/StuRa_Icons/Blackboard.svg"
+  },{
+    "name":"Toledo",
+    "desc":"",
+    "url":"https://cygnus.cc.kuleuven.be/",
+    "icon":"img/StuRa_Icons/Blackboard.svg"
+  },{
+    "name":"Email",
+    "desc":"",
+    "url":"http://mail.student.uhasselt.be/",
+    "icon":"img/StuRa_Icons/Email.svg"
+  },{
+    "name":"My Student File",
+    "desc":"",
+    "url":"https://uhintra02.uhasselt.be/studDosSt/",
+    "icon":"img/StuRa_Icons/Email.svg"
+  },{
+    "name":"Print (only op UHasselt Wifi)",
+    "desc":"",
+    "url":"http://everyoneprint.uhasselt.be/",
+    "icon":"img/StuRa_Icons/Info.svg"
+  },{
+    "name":"Studyguide",
+    "desc":"",
+    "url":"https://www.uhasselt.be/studyguide",
+    "icon":"img/StuRa_Icons/Info.svg"
+  },{
+    "name":"Wiki",
+    "desc":"",
+    "url":"https://en.wiki.suhasselt.be",
+    "icon":"img/StuRa_Icons/Info.svg"
+  },{
+    "name":"PingPing",
+    "desc":"",
+    "url":"https://uhasselt-pxl.mynetpay.be/",
+    "icon":"img/StuRa_Icons/Info.svg"
+  },{
+    "name":"e-Bronnen",
+    "desc":"",
+    "url":"https://www.uhasselt.be/eBronnen",
+    "icon":"img/StuRa_Icons/Info.svg"
+  },{
+    "name":"Groups",
+    "desc":"",
+    "url":"groups_en.html",
+    "icon":"img/StuRa_Icons/Groepen.svg"
+  },{
+    "name":"Studentgroups",
+    "desc":"",
+    "url":"groups_en.html",
+    "icon":"img/StuRa_Icons/Groepen.svg"
+  },{
+    "name":"Associations",
+    "desc":"",
+    "url":"associations_en.html",
+    "icon":"img/StuRa_Icons/Verenigingen.svg"
+  },{
+    "name":"Student Associations",
+    "desc":"",
+    "url":"associations_en.html",
+    "icon":"img/StuRa_Icons/Verenigingen.svg"
+  },{
+    "name":"StuRa",
+    "desc":"",
+    "url":"https://nl.wiki.suhasselt.be/wiki/StuRa",
+    "icon":"img/StuRa_Icons/StuRa.svg"
+  }
+
+]
