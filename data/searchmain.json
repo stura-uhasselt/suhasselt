@@ -70,16 +70,6 @@
     "url":"https://www.uhasselt.be/eBronnen",
     "icon":"img/StuRa_Icons/Info.svg"
   },{
-    "name":"Groepen",
-    "desc":"",
-    "url":"groepen.html",
-    "icon":"img/StuRa_Icons/Groepen.svg"
-  },{
-    "name":"Studentengroepen",
-    "desc":"",
-    "url":"groepen.html",
-    "icon":"img/StuRa_Icons/Groepen.svg"
-  },{
     "name":"Verenigingen",
     "desc":"",
     "url":"verenigingen.html",

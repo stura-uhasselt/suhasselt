@@ -21,7 +21,7 @@
   <meta name="theme-color" content="#5ca200">
 
   <meta name="description" content="SUHasselt is a portalwebsite for students of the UHasselt.">
-  <meta name="keywords" content="SUHasselt,UHasselt,Wiki,Student,Students,Groups,Studentgroups,Associations,StuRa,Schedule">
+  <meta name="keywords" content="SUHasselt,UHasselt,Wiki,Student,Students,Associations,StuRa,Schedule">
   <meta name="author" content="StuRa UHasselt">
   <meta property="og:title" content="Associations | SUHasselt" />
   <meta property="og:description" content="SUHasselt is a portalwebsite for students of the UHasselt." />
@@ -60,9 +60,6 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="nav navbar-nav">
         <li class="nav-item"><a class="nav-link" href="index_en.html">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="groups_en.html">Groups</a></li>
-        <li class="nav-item"><a class="nav-link" href="found_group_en.html">Found a Group</a></li>
-        <li class="nav-item"><a class="nav-link" href="getintouch_en.html">Get in touch</a></li>
         <li class="nav-item active"><a class="nav-link" href="associations_en.html">Associations</a></li>
         <li class="nav-item"><a class="nav-link" href="https://en.wiki.suhasselt.be">Wiki</a></li>
         <li class="nav-item"><a class="nav-link" href="https://sturauhasselt.be/">StuRa</a></li>
@@ -176,7 +173,6 @@
     modal.find('#modal-description').html(group.description[language]);
     modal.find('#modal-tags').text(group.category);
     modal.find('#modal-contact').text(group.contact);
-    modal.find('#modal-logo').attr('src','groepen/'+group.logo);
     modal.find('#modal-join').attr('href',group.joinLink);
     console.log(group.facebookLink);
     displayIfLink(modal, '#modal-link-facebook', group.facebookLink);
