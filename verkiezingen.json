@@ -1,60 +1,60 @@
 {
-  "last_updated":"07/05/2019 07:30",
+  "last_updated":"09/05/2019 07:30",
   "current":[
     {
       "faculteit":"BEW",
       "bg_color":"#00aff0",
       "text_color":"black",
-      "votes":113,
+      "votes":148,
       "votes_prev":0,
       "total":1349
     },{
       "faculteit":"GLW",
       "bg_color":"#93268f",
       "text_color":"white",
-      "votes":137,
+      "votes":186,
       "votes_prev":0,
       "total":643
     },{
       "faculteit":"IIW",
       "bg_color":"#5bc5bb",
       "text_color":"black",
-      "votes":113,
+      "votes":232,
       "votes_prev":0,
       "total":859
     },{
       "faculteit":"REC",
       "bg_color":"#f02e25",
       "text_color":"black",
-      "votes":152,
+      "votes":196,
       "votes_prev":0,
       "total":722
     },{
       "faculteit": "RWS",
       "bg_color": "#fc8625",
       "text_color": "black",
-      "votes": 88,
+      "votes": 119,
       "votes_prev": 0,
       "total": 818
     },{
       "faculteit":"WET",
       "bg_color":"#015ea1",
       "text_color":"white",
-      "votes":68,
+      "votes":96,
       "votes_prev":0,
       "total":620
     },{
       "faculteit":"SvM",
       "bg_color":"#aed137",
       "text_color":"black",
-      "votes":47,
+      "votes":64,
       "votes_prev":0,
       "total":163
     },{
       "faculteit":"Total",
       "bg_color":"#f04937",
       "text_color":"black",
-      "votes":718,
+      "votes":1040,
       "votes_prev":0,
       "total":5700
     }
