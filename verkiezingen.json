@@ -5,42 +5,42 @@
       "faculteit":"BEW",
       "bg_color":"#00aff0",
       "text_color":"black",
-      "votes":148,
+      "votes":193,
       "votes_prev":0,
       "total":1349
     },{
       "faculteit":"GLW",
       "bg_color":"#93268f",
       "text_color":"white",
-      "votes":186,
+      "votes":238,
       "votes_prev":0,
       "total":643
     },{
       "faculteit":"IIW",
       "bg_color":"#5bc5bb",
       "text_color":"black",
-      "votes":232,
+      "votes":239,
       "votes_prev":0,
       "total":859
     },{
       "faculteit":"REC",
       "bg_color":"#f02e25",
       "text_color":"black",
-      "votes":196,
+      "votes":206,
       "votes_prev":0,
       "total":722
     },{
       "faculteit": "RWS",
       "bg_color": "#fc8625",
       "text_color": "black",
-      "votes": 119,
+      "votes": 146,
       "votes_prev": 0,
       "total": 818
     },{
       "faculteit":"WET",
       "bg_color":"#015ea1",
       "text_color":"white",
-      "votes":96,
+      "votes":120,
       "votes_prev":0,
       "total":620
     },{
@@ -54,7 +54,7 @@
       "faculteit":"Total",
       "bg_color":"#f04937",
       "text_color":"black",
-      "votes":1040,
+      "votes":1204,
       "votes_prev":0,
       "total":5700
     }
